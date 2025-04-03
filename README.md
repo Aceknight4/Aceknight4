@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Anel Graph!
 
-<!--
-**Aceknight4/Aceknight4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 **Network Security Engineer Student | Aspiring SOC Analyst | Cybersecurity Enthusiast**  
+🔹 Passionate about securing networks, automating security processes, and ethical hacking.   
 
-Here are some ideas to get you started:
+💻 **Tech Interests:**  
+✅ Network Security (Firewalls, IDS/IPS, VPNs)  
+✅ Python Scripting for Security Automation
+✅ Security Operations Center (SOC) Analysis  
+✅ Cyber Threat Intelligence & Incident Response  
+✅ Penetration Testing & Ethical Hacking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Follow me in my daily adventure to becoming a tech expert(knight of the digital realm)*
+
+![aceknight4's GitHub stats](https://github-readme-stats.vercel.app/api?username=aceknight4&show_icons=true&theme=radical)
+
+📫 **Let's Connect:**  
+🔗 www.linkedin.com/in/anel-graph-03b736206
+🐦 @anel_graph   
+
+---
+
