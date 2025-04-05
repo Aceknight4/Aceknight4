@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔒 Network Security Engineer Student | Aspiring SOC Analyst | Cybersecurity Enthusiast<br>🔹 Passionate about securing networks, automating security processes, and ethical hacking.
+🔒 Network Security Engineer Student | Aspiring SOC Analyst | Cybersecurity Enthusiast | Certified Lead Auditor ISO27001<br>🔹 Passionate about securing networks, automating security processes, and ethical hacking.
 
 
 ## 🌐 Socials:
